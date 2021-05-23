@@ -1,2 +1,2 @@
-# sergey-stolyarov.github.io
+# Сергей Столяров
 Мой первый сайт
